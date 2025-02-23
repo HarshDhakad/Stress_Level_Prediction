@@ -1,0 +1,9 @@
+numpy>=1.25.0
+pandas>=2.2.0
+setuptools>=65.5.0
+wheel
+meson
+ninja
+streamlit==1.30.0
+scikit-learn>=1.3.0
+plotly==5.18.0
